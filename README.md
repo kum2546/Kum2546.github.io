@@ -6,7 +6,7 @@
  
 ---
 ## Certificate
-+ [Cybersecurity-Fundamentals](Cybersecurity-Fundamentals)
++ [Cybersecurity-Fundamentals](Cybersecurity-Fundamentals.png)
 
 
 
@@ -29,5 +29,6 @@
 ## 📫 Contact
 - ✉️ Email: Kumkone2546@gmail.com
 - 🌐 Facebook: [ศตคุณ กาพล ](https://www.facebook.com/st.khun.ka.phl/)
+
 
 
