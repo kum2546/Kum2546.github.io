@@ -4,4 +4,5 @@ theme: jekyll-theme-cayman
 url: "https://kum2546.github.io"
 author: Satakun Kaphon
 sass:
+
   style: compressed
