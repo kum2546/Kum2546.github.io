@@ -13,7 +13,8 @@
 
 ---
 ## Certificate
-![cf](CybersecurityAcademy.pdf)
++ [Cybersecurity-Fundamentals](Cybersecurity-Fundamentals)
+
 
 
 ## 🎓 Education
@@ -39,4 +40,5 @@
 - 🌐 Facebook: [ศตคุณ กาพล ](https://www.facebook.com/st.khun.ka.phl/)
 
 ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️
+
 
