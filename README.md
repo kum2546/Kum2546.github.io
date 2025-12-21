@@ -1,45 +1,40 @@
-# Kum2546.github.io   ![cf](17.jpg)
+# 👨‍💻 Satakun Kaphon  
+**IT Student | Cybersecurity & Networking**
 
-## Vocabuary
-
-
-  ---
-  
-## LAB
+![Profile](17.jpg)
 
 ---
 
-# Satakun
+## 📘 Vocabulary
+> Personal learning notes and technical terms related to IT and Cybersecurity
 
 ---
-## Certificate
-+ [Cybersecurity-Fundamentals](Cybersecurity-Fundamentals)
 
+## 🧪 LAB
+> Hands-on labs and practical exercises from coursework and self-study
 
+---
 
 ## 🎓 Education
-+ 🎓 Bachelor of Information Technology (Year 4)
-+ 🏫 Institute of Vocational Education : Central Region 5
-  ![cf](1212.jpg)
+- 🎓 **Bachelor of Information Technology (Year 4)**
+- 🏫 **Institute of Vocational Education : Central Region 5**
 
-❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️
-
+![Education](1212.jpg)
 
 ---
 
 ## 🏆 Certificates
-- Cisco Networking Basics
-- APNIC Academy Cybersecurity Fundamentals
-
-
+- 📜 **Cisco Networking Basics**
+- 📜 **APNIC Academy – Cybersecurity Fundamentals**
+- 📜 **Cybersecurity Fundamentals**  
+  👉 [View Certificate](Cybersecurity-Fundamentals)
 
 ---
 
 ## 📫 Contact
-- ✉️ Email: Kumkone2546@gmail.com
-- 🌐 Facebook: [ศตคุณ กาพล ](https://www.facebook.com/st.khun.ka.phl/)
+- ✉️ **Email:** Kumkone2546@gmail.com  
+- 🌐 **Facebook:** [ศตคุณ กาพล](https://www.facebook.com/st.khun.ka.phl/)
+
+---
 
 ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️
-
-
-
