@@ -11,8 +11,10 @@
 
 # Satakun
 
-
 ---
+## Certificate
+![cf](CybersecurityAcademy.pdf)
+
 
 ## 🎓 Education
 + 🎓 Bachelor of Information Technology (Year 4)
@@ -37,3 +39,4 @@
 - 🌐 Facebook: [ศตคุณ กาพล ](https://www.facebook.com/st.khun.ka.phl/)
 
 ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️
+
