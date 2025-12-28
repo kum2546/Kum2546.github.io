@@ -1,4 +1,7 @@
-Glossary = An action that a system performs, or a characteristic that it displays unless explicitly instructed otherwise.
+Default = An action that a system performs, or a characteristic that it displays unless explicitly instructed otherwise.
+
 Chatgpt = คือ พฤติกรรมหรือการทำงานที่ระบบทำโดยอัตโนมัติหรือเป็นลักษณะที่ระบบแสดงออกมาเอง ถ้าไม่มีการตั้งค่าหรือสั่งให้เปลี่ยนแปลง
+
 Gemini = "สิ่งที่ระบบจะทำเองหรือเป็นให้โดยอัตโนมัติ ตราบใดที่เรายังไม่ได้ไปสั่งให้มันทำอย่างอื่น"
+
 ความหมายที่ตัวเราเข้าใจ = ระบบการทำโดยอัตโนมัติเป็นลักษณะที่เป็นระบบแสดงออกมาเอง
