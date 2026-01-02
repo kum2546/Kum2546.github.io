@@ -75,12 +75,14 @@
 1.เลือกประเภทการติดตั้ง
 
 ตัวเลือกที่เลือกอยู่คือ
-✅ Role-based or feature-based installation
-(ใช้สำหรับติดตั้ง Roles หรือ Features บนเครื่องเซิร์ฟเวอร์นี้)
+
+    ✅ Role-based or feature-based installation
+    (ใช้สำหรับติดตั้ง Roles หรือ Features บนเครื่องเซิร์ฟเวอร์นี้)
 
 2.อีกตัวเลือกคือ
-⭕ Remote Desktop Services installation
-(ใช้เมื่อต้องติดตั้งระบบ Remote Desktop VDI — ซึ่งไม่ใช้ในงานนี้)
+
+    ⭕ Remote Desktop Services installation
+    (ใช้เมื่อต้องติดตั้งระบบ Remote Desktop VDI — ซึ่งไม่ใช้ในงานนี้)
 
 3.หลังเลือกแล้วให้กด Next เพื่อไปขั้นตอนถัดไป
 
