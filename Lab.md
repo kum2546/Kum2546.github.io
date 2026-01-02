@@ -1,4 +1,4 @@
-[cf](LAB1.png)
+[cf](LAB 1.png)
 
 1.อนุมัติ (Approve) คำขอใบรับรอง Smart Card
 
