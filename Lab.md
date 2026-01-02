@@ -22,12 +22,32 @@
 
 2.ที่หน้า Dashboard จะมีงานเริ่มต้นให้ทำ ได้แก่
 
-  -Configure this local server → ตั้งค่าเซิร์ฟเวอร์
+    -Configure this local server → ตั้งค่าเซิร์ฟเวอร์
 
-  -Add roles and features → ติดตั้ง Roles / Services
+    -Add roles and features → ติดตั้ง Roles / Services
 
-  -Add other servers to manage → เพิ่มเครื่องอื่นให้จัดการ
+    -Add other servers to manage → เพิ่มเครื่องอื่นให้จัดการ
 
-  -Create a server group → จัดกลุ่มเซิร์ฟเวอร์
+    -Create a server group → จัดกลุ่มเซิร์ฟเวอร์
 
-  -Connect this server to cloud services → เชื่อมต่อบริการคลาวด์
+    -Connect this server to cloud services → เชื่อมต่อบริการคลาวด์
+
+![cf](LAB3.png)
+
+ขั้นตอนสั้น ๆ ที่เกี่ยวข้องกับหน้านี้คือ
+
+1.คลิกเมนู Local Server บนแถบซ้าย
+
+2.หน้านี้จะแสดงข้อมูลสำคัญของเซิร์ฟเวอร์ เช่น
+
+    -ชื่อเครื่อง (CorpServer2)
+
+    -โดเมนที่เข้าร่วม (CorpNet.local)
+
+    -สถานะ Firewall / Remote Management
+
+    -IPv4 / IPv6
+
+    -ระบบปฏิบัติการและฮาร์ดแวร์
+
+3.สามารถคลิกลิงก์แต่ละรายการเพื่อแก้ไขค่าการตั้งค่าได้
