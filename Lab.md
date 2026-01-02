@@ -1,4 +1,5 @@
-[cf](Lab1.png)
+[cf](LAB1.png)
+
 1.อนุมัติ (Approve) คำขอใบรับรอง Smart Card
 
 -สำหรับผู้ใช้ tsutton และ mmallory
