@@ -1,1 +1,1 @@
-![cf](GeminiFacultyry.jpg)
+![cf](GeminiFaculty.jpg)
