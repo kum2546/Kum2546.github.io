@@ -3,8 +3,10 @@
 
 ## Vocabuary
 + [Client](Client)
- 
++ [Database](Database)
++ [Default](Default)
 ---
+
 ## Certificate
 + [Cybersecurity-Fundamentals](144.png)
 
@@ -29,6 +31,7 @@
 ## 📫 Contact
 - ✉️ Email: Kumkone2546@gmail.com
 - 🌐 Facebook: [ศตคุณ กาพล ](https://www.facebook.com/st.khun.ka.phl/)
+
 
 
 
