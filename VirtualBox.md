@@ -24,8 +24,9 @@
 
 ดับเบิ้ลคลิก ไฟล์ .exe ที่ดาวน์โหลดมา (เช่น VirtualBox-7.2.6-xxxxx-Win.exe)
 
+![cf](ขั้นตอนการติดตั้งVirtualBox7.png)
+
 หน้าต่าง Setup จะเด้งขึ้นมา ให้กด Next >
 
-![cf](ขั้นตอนการติดตั้งVirtualBox7.png)
 
 
