@@ -9,3 +9,7 @@
 คลิกที่เมนู Downloads
 
 ![cf](ขั้นตอนการติดตั้งVirtualBox6.png)
+
+ภายใต้หัวข้อ “VirtualBox 7.x.x platform packages” ให้คลิกที่ Windows hosts
+
+![cf](ขั้นตอนการติดตั้งVirtualBox3.png)
