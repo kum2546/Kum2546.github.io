@@ -17,3 +17,7 @@
 (แนะนำ) ให้ดาวน์โหลด “VirtualBox 7.x.x Oracle VM VirtualBox Extension Pack” มาเก็บไว้ด้วยครับ (ต้องใช้คู่กันเพื่อให้รองรับ USB 3.0 และฟีเจอร์อื่นๆ)
 
 ![cf](ขั้นตอนการติดตั้งVirtualBox5.png)
+
+ขั้นตอนที่ 2: เริ่มการติดตั้ง (Installation)
+
+![cf](ขั้นตอนการติดตั้งVirtualBox8.png)
