@@ -21,3 +21,5 @@
 ขั้นตอนที่ 2: เริ่มการติดตั้ง (Installation)
 
 ![cf](ขั้นตอนการติดตั้งVirtualBox8.png)
+
+ดับเบิ้ลคลิก ไฟล์ .exe ที่ดาวน์โหลดมา (เช่น VirtualBox-7.2.6-xxxxx-Win.exe)
