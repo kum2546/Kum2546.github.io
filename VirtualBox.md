@@ -13,3 +13,7 @@
 ภายใต้หัวข้อ “VirtualBox 7.x.x platform packages” ให้คลิกที่ Windows hosts
 
 ![cf](ขั้นตอนการติดตั้งVirtualBox3.png)
+
+(แนะนำ) ให้ดาวน์โหลด “VirtualBox 7.x.x Oracle VM VirtualBox Extension Pack” มาเก็บไว้ด้วยครับ (ต้องใช้คู่กันเพื่อให้รองรับ USB 3.0 และฟีเจอร์อื่นๆ)
+
+![cf](ขั้นตอนการติดตั้งVirtualBox5.png)
