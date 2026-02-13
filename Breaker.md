@@ -1,4 +1,5 @@
 ระบบเครื่องตัดกระแสไฟรั่ว (Breaker)
+
 ระบบเครื่องตัดกระแสไฟรั่ว (RCD/ELCB) เป็น Technical Security Control ที่มีลักษณะเป็น Preventive Control
 
 เหตุผลคือ…
