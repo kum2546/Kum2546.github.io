@@ -14,4 +14,4 @@
 
     ช่วยลดความเสี่ยงจากไฟฟ้าช็อต อุบัติเหตุ และความเสียหายต่อชีวิตและทรัพย์สิน
 
-![cf](BewareElectronic.jpg)
+![cf](BewareElectrinicity.jpg)
